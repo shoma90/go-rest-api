@@ -1,6 +1,6 @@
 module go-rest-api
 
-go 1.23.2
+go 1.23.0
 
 require (
 	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
